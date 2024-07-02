@@ -1,0 +1,18 @@
+YouTube Analysis Project:
+
+1. Google Developer Console
+2. Create a new project
+3. Enable the YouTube API
+4. Create an API Key
+
+5. Go to the YouTube Data API Documentation 
+
+6. conda create --name YT-env python=3.11
+   conda activate YT-env
+   conda install --upgrade google-api-python-client	
+   conda install pandas
+   conda install seaborn
+   conda install jupyter
+   
+	
+	
